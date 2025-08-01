@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Hanqing Zhang",
+    "email": "zhanghanqing.fly@gmail.com",
     "phone": "",
     "website": "https://academicpages.github.io",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Beijing",
       "countryCode": "US",
       "region": ""
     },
@@ -16,7 +16,7 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com.hk/citations?user=zGjji9EAAAAJ&hl=zh-CN"
       },
       {
         "network": "ORCID",
@@ -33,29 +33,29 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Beijing Institute of Technology",
+      "area": "Ph.D in Computer science",
+      "studyType": "FULL Time",
+      "startDate": "2020",
+      "endDate": "2024",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "institution": "Beijing Institute of Technology",
+      "area": "M.S. in Cyberspace Security",
+      "studyType": "Full Time",
+      "startDate": "2017",
+      "endDate": "2020",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "Harbin Engineering University",
+      "area": "B.S. in Electronic Engineering",
+      "studyType": "Full Time",
+      "startDate": "2017",
+      "endDate": "2020",
       "gpa": null,
       "courses": []
     }
