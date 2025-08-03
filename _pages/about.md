@@ -19,7 +19,7 @@ Interested research directions
 ======
  -- Explore the relationship between memory and reasoning in LLMs, identify efficient methods to control these modes, and enhance the LLM's performance on memory- and reasoning-intensive tasks.
  
- -- Identify efficient and essential methods for developing domain-specific LLMs, with a focus on animal sciences. My primary interests lie in the following sub-areas: (1)Data synthesis techniques using general-purpose LLMs to train domain-specific Small Language Models (SLMs)(2)Mechanisms of interaction between domain-specific SLMs and general LLMs, aiming to adapt the capabilities of general models to specialized domains at minimal cost.
+ -- Identify efficient and essential methods for developing domain-specific LLMs, with a focus on animal sciences. My primary interests lie in the following sub-areas: (1) Data synthesis techniques using general-purpose LLMs to train domain-specific Small Language Models (SLMs)   (2) Mechanisms of interaction between domain-specific SLMs and general LLMs, aiming to adapt the capabilities of general models to specialized domains at minimal cost.
 
 
 
