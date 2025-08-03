@@ -21,6 +21,8 @@ Interested research directions
  
  -- Identify efficient and essential methods for developing domain-specific LLMs, with a focus on animal sciences. My primary interests lie in the following sub-areas: (1) Data synthesis techniques using general-purpose LLMs to train domain-specific Small Language Models (SLMs)   (2) Mechanisms of interaction between domain-specific SLMs and general LLMs, aiming to adapt the capabilities of general models to specialized domains at minimal cost.
 
+  -- Develop LLM agents tailored for domain-specific AI applications. For example, create an intelligent assessment agent to address challenges in livestock farming, offering management insights and optimization suggestions for the farm.
+
 
 
 Selected Publications
