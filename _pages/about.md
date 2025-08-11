@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently affiliated with China Agricultural University, where I am engaged in interdisciplinary research on building large language models (LLMs) for applications in animal science. 
+I am currently affiliated with China Agricultural University, where I conduct interdisciplinary research on developing large language models (LLMs) for applications in animal science. Previously, from September 2024 to July 2025, I worked as an LLM development engineer at CNIGC.
 
 I received my Ph.D. in 2024 from the Department of Computer Science and Technology at Beijing Institute of Technology, under the supervision of Professor [Dawei Song](https://scholar.google.com.hk/citations?user=PCTA8yAAAAAJ&hl=zh-CN). During my doctoral studies, my research primarily focused on the controllability of large language models in text generation, aiming to ensure that the generated content aligns with human expectations and values. Prior to that, I earned my master's and bachelor's degrees from Beijing Institute of Technology and Harbin Engineering University in 2020 and 2017, respectively.
 
@@ -35,7 +35,7 @@ Selected Publications
 
 -- Hanqing Zhang and Song Dawei. Towards Contrastive Context-aware Conversational Emotion Recognition[J]. IEEE Transactions on Affective Computing, 2022, 13(4): 1879-1891. (TAFFC)
 
--- Hanqing Zhang，et al. Emotion-Aware LLM Adaptation for Empathetic Dialogue Generation[J]. IEEE Transactions on Audio, Speech and Language Processing.  (Major Revision) (TASLP)
+-- Hanqing Zhang，et al. Emotion-Aware LLM Adaptation for Empathetic Dialogue Generation[J]. IEEE Transactions on Audio, Speech and Language Processing. (TASLP)
 
 -- Hanqing Zhang, et al. An Efficient Android Malware Detection System Based on Method-Level Behavioral Semantic Analysis[J].IEEE ACCESS,2019, 7: 69246-69256.
 
