@@ -39,4 +39,21 @@ Selected Publications
 
 -- Hanqing Zhang, et al. An Efficient Android Malware Detection System Based on Method-Level Behavioral Semantic Analysis[J].IEEE ACCESS,2019, 7: 69246-69256.
 
+Honors and Awards
+======
+
+- Doctoral Student Special Scholarship (2023);
+- Beijing Outstanding Graduate (2020);
+- Beijing Institute of Technology Outstanding Master's Thesis (2020),
+- Beijing Institute of Technology Outstanding Graduate (2020);
+- Beijing Institute of Technology Graduate National Scholarship (2019);
+- China Graduate Electronics Design Competition: Android System Service Efficient Fuzz Testing Platform – Provincial Second Prize（2019);
+- Nanjing Global Artificial Intelligence Application Competition: Prediction of Highway Trunk Logistics Regional Supply-Demand Relationships – Global Data Mining Competition (Top 1), Awarded 50,000 RMB（2018）
+- National TI Cup Undergraduate Electronic Design Competition: Pulse Signal Parameter Measurement Instrument – Provincial Second Prize（2016）
+- RoboCup National Robotics Competition: Underwater Patrol Robot – National Special Prize （2015）
+- National Renesas Cup Undergraduate Electronic Design Competition: Digital Frequency Meter – Provincial Second Prize（2015）
+
+
+
+
 
