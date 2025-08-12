@@ -27,17 +27,17 @@ Interested research directions
 
 Selected Publications
 ======
--- Hanqing Zhang, et al. Controllable Text Generation with Residual Memory Transformer[C].  In findings of Proceedings of the Association for Computational Linguistics: ACL2024, pages 1048–1066, Bangkok, Thailand. Association for Computational Linguistics. (ACL 2024)
+-- **Hanqing Zhang**, et al. Controllable Text Generation with Residual Memory Transformer[C].  In findings of Proceedings of the Association for Computational Linguistics: ACL2024, pages 1048–1066, Bangkok, Thailand. Association for Computational Linguistics. (ACL 2024)
 
--- Hanqing Zhang and Song Dawei. DisCup: Discriminator Cooperative Unlikelihood Prompt Tuning for Controllable Text Generation[C]. Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing. Abu Dhabi, United Arab Emirates: Association for Computational Linguistics, 2022: 3392-3406. (EMNLP 2022)
+-- **Hanqing Zhang** and Song Dawei. DisCup: Discriminator Cooperative Unlikelihood Prompt Tuning for Controllable Text Generation[C]. Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing. Abu Dhabi, United Arab Emirates: Association for Computational Linguistics, 2022: 3392-3406. (EMNLP 2022)
 
--- Hanqing Zhang, Haolin Song, Shaoyu Li, Ming Zhou, Dawei Song. A Survey of Controllable Text Generation Using Transformer-based Pre-trained Language Models[J]. ACM Computing Surveys, 2023, 56(3). (CSUR)
+-- **Hanqing Zhang**, Haolin Song, Shaoyu Li, Ming Zhou, Dawei Song. A Survey of Controllable Text Generation Using Transformer-based Pre-trained Language Models[J]. ACM Computing Surveys, 2023, 56(3). (CSUR)
 
--- Hanqing Zhang and Song Dawei. Towards Contrastive Context-aware Conversational Emotion Recognition[J]. IEEE Transactions on Affective Computing, 2022, 13(4): 1879-1891. (TAFFC)
+-- **Hanqing Zhang** and Song Dawei. Towards Contrastive Context-aware Conversational Emotion Recognition[J]. IEEE Transactions on Affective Computing, 2022, 13(4): 1879-1891. (TAFFC)
 
--- Hanqing Zhang，et al. Emotion-Aware LLM Adaptation for Empathetic Dialogue Generation[J]. IEEE Transactions on Audio, Speech and Language Processing. (TASLP)
+-- **Hanqing Zhang**，et al. Emotion-Aware LLM Adaptation for Empathetic Dialogue Generation[J]. IEEE Transactions on Audio, Speech and Language Processing. (TASLP)
 
--- Hanqing Zhang, et al. An Efficient Android Malware Detection System Based on Method-Level Behavioral Semantic Analysis[J].IEEE ACCESS,2019, 7: 69246-69256.
+-- **Hanqing Zhang**, et al. An Efficient Android Malware Detection System Based on Method-Level Behavioral Semantic Analysis[J].IEEE ACCESS,2019, 7: 69246-69256.
 
 Honors and Awards
 ======
