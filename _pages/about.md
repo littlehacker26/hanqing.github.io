@@ -37,7 +37,7 @@ Selected Publications
 
 - **Hanqing Zhang**，et al. Emotion-Aware LLM Adaptation for Empathetic Dialogue Generation[J]. IEEE Transactions on Audio, Speech and Language Processing. (TASLP)
 
-- **Hanqing Zhang**, et al. An Efficient Android Malware Detection System Based on Method-Level Behavioral Semantic Analysis[J].IEEE ACCESS,2019, 7: 69246-69256.
+- **Hanqing Zhang**, et al. An Efficient Android Malware Detection System Based on Method-Level Behavioral Semantic Analysis[J].IEEE ACCESS,2019, 7: 69246-69256. （Highly Cited Paper）
 
 Honors and Awards
 ======
