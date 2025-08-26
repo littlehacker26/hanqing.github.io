@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently affiliated with China Agricultural University (CAU), where I conduct interdisciplinary research on developing large language models (LLMs) for applications in animal science. Previously, from September 2024 to July 2025, I worked as an LLM development engineer at CNIGC.
+I am currently a postdoctoral researcher at China Agricultural University (CAU), where I conduct interdisciplinary research on developing large language models (LLMs) for applications in animal science. Previously, from  2024-08  to July 2025-08, I worked as an LLM development engineer at CNIGC.
 
 I received my Ph.D. in 2024 from the Department of Computer Science and Technology at Beijing Institute of Technology (BIT), under the supervision of Professor [Dawei Song](https://scholar.google.com.hk/citations?user=PCTA8yAAAAAJ&hl=zh-CN). During my doctoral studies, my research primarily focused on the controllability of large language models in text generation, aiming to ensure that the generated content aligns with human expectations and values. Prior to that, I earned my master's and bachelor's degrees from Beijing Institute of Technology (BIT) and Harbin Engineering University (HEU) in 2020 and 2017, respectively.
 
