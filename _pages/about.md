@@ -12,7 +12,7 @@ I am currently a postdoctoral researcher at China Agricultural University (CAU),
 I received my Ph.D degree in Computer Science in 2024 from the Department of Computer Science and Technology at Beijing Institute of Technology (BIT), under the supervision of Professor [Dawei Song](https://scholar.google.com.hk/citations?user=PCTA8yAAAAAJ&hl=zh-CN). During my doctoral studies, my research primarily focused on the controllability of large language models (LLMs) in text generation, aiming to ensure that the generated content aligns with human expectations and values. Prior to that, I earned my master's and bachelor's degrees from Beijing Institute of Technology (BIT) and Harbin Engineering University (HEU) in 2020 and 2017, respectively.
 
 
-I have been actively seeking collaborators for research and projects in the field of natural language processing (NLP) and LLM.  If you're interested in my work, feel free to contact me at [zhanghanqing.fly@gmail.com](zhanghanqing.fly@gmail.com).
+I have been actively seeking collaborators for research and projects in the field of natural language processing (NLP), LLM and AI4Science.  If you're interested in my work, feel free to contact me at [zhanghanqing.fly@gmail.com](zhanghanqing.fly@gmail.com).
 
 
 Interested research directions
