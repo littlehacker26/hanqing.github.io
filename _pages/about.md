@@ -32,7 +32,7 @@ Selected Publications
 - **Hanqing Zhang**, Haolin Song, Shaoyu Li, Ming Zhou, Dawei Song. A Survey of Controllable Text Generation Using Transformer-based Pre-trained Language Models[J]. ACM Computing Surveys, 2023, 56(3). (CSUR, 2023)
 - **Hanqing Zhang** and Song Dawei. DisCup: Discriminator Cooperative Unlikelihood Prompt Tuning for Controllable Text Generation[C]. Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing. Abu Dhabi, United Arab Emirates: Association for Computational Linguistics, 2022: 3392-3406. (EMNLP 2022)
 - **Hanqing Zhang** and Song Dawei. Towards Contrastive Context-aware Conversational Emotion Recognition[J]. IEEE Transactions on Affective Computing, 2022, 13(4): 1879-1891. (TAFFC, 2022)
-- Zhuosheng Zhang, **Hanqing Zhang**, Chen K, et al. Mengzi: Towards lightweight yet ingenious pre-trained models for chinese[J]. arXiv preprint arXiv:2110.06696, 2021. (Technical Report,2021)
+- Zhuosheng Zhang, **Hanqing Zhang**, Chen K, et al. Mengzi: Towards lightweight yet ingenious pre-trained models for chinese[J]. arXiv preprint arXiv:2110.06696, 2021. (Technical Report, 2021)
 - **Hanqing Zhang**, et al. An Efficient Android Malware Detection System Based on Method-Level Behavioral Semantic Analysis[J].IEEE ACCESS,2019, 7: 69246-69256. （Highly Cited Paper, 2019）
 
 
