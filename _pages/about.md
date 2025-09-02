@@ -15,7 +15,7 @@ I received my Ph.D degree in Computer Science in 2024 from the Department of Com
 I have been actively seeking collaborators for research and projects in the field of natural language processing (NLP), LLM and AI4Science.  If you're interested in my work, feel free to contact me at [zhanghanqing.fly@gmail.com](zhanghanqing.fly@gmail.com).
 
 
-Interested research directions
+Research 
 ======
  - Conduct fundamental research on the memory and reasoning capabilities of large language model (LLMs). We are exploring the relationship between memory and reasoning in LLMs, propose efficient methods to control these modes, and enhance the LLM's performance on memory- and reasoning-intensive tasks. Further, we are also committed to exploring more effective and effective reasoning-enhanced LLM training methods based on reinforcement learning.
 
