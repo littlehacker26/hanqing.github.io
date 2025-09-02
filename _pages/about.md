@@ -42,15 +42,13 @@ Hobbies
 - Hobbies: Fishing, traveling, watching movies, swimming, playing badminton, and playing mobile games such as League of Legends and Honor of Kings
 
 
-
-Part-time academic position
+Academic Service
 ======
-Served as a reviewer for ARR, ACL, EMNLP, TNNLS, TASLP, and TALLIP, etc.
+Served as reviewer for ARR, ACL, EMNLP, TNNLS, TASLP, TALLIP, etc.
 
 
 Honors and Awards
 ======
-
 - Doctoral Student Special Scholarship (2023);
 - Beijing Outstanding Graduate (2020);
 - Beijing Institute of Technology Outstanding Master's Thesis (2020),
