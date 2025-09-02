@@ -17,12 +17,11 @@ I have been actively seeking collaborators for research and projects in the fiel
 
 Interested research directions
 ======
- - Conduct fundamental research on the memory and reasoning capabilities of large language model (LLMs). We are exploring the relationship between memory and reasoning in LLMs, propose efficient methods to control these modes, and enhance the LLM's performance on memory- and reasoning-intensive tasks. Further, we are also committed to exploring more effective and effective reasoning-enhanced LLM training methods based on reinforcement learning. (Fundamental Research in Artificial Intelligence)
+ - Conduct fundamental research on the memory and reasoning capabilities of large language model (LLMs). We are exploring the relationship between memory and reasoning in LLMs, propose efficient methods to control these modes, and enhance the LLM's performance on memory- and reasoning-intensive tasks. Further, we are also committed to exploring more effective and effective reasoning-enhanced LLM training methods based on reinforcement learning.
 
- - Identify efficient and essential methods for developing domain-specific LLMs, with a focus on animal sciences. My primary interests lie in the following sub-areas: (1) Data synthesis techniques using general-purpose LLMs to train domain-specific Small Language Models (SLMs)   (2) Mechanisms of interaction between domain-specific SLMs and general LLMs, aiming to adapt the capabilities of general models to specialized domains at minimal cost. (3) Develop LLM agents tailored for domain-specific AI applications. For example, create an intelligent assessment agent to address challenges in livestock farming, offering management insights and optimization suggestions for the farm.
+ - Identify efficient and essential methods for developing domain-specific LLMs, with a focus on animal sciences. My primary interests lie in the following sub-areas: (1) Data synthesis techniques using general-purpose LLMs to train domain-specific Small Language Models (SLMs)   (2) Mechanisms of interaction between domain-specific SLMs and general LLMs, aiming to adapt the capabilities of general models to specialized domains at minimal cost. (3) Develop LLM agents tailored for domain-specific AI applications. For example, create an intelligent analysis agent to address challenges in livestock farming, offering more efficient management insights and optimization suggestions for the farm.
 
  - I am exploring research at the intersection of AI and the life sciences with a focus on applying large language model (LLM) technology to biological and medical domains. For example, my work includes developing LLM-based models for the early warning and diagnosis of animal diseases, leveraging physiological indicators and genetic sequences. (AI4Science)
-
 
 
 
