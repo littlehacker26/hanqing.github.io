@@ -26,9 +26,6 @@ Research
  <!--For example, create an intelligent analysis agent to address challenges in livestock farming, offering more efficient management insights and optimization suggestions for the farm.
 。-->  
  <!-- - I am exploring research at the intersection of AI and the life sciences with a focus on applying large language model (LLM) technology to biological and medical domains. For example, my work includes developing LLM-based models for the early warning and diagnosis of animal diseases, leveraging physiological indicators and genetic sequences. (AI4Science)-->  
-
-
-
 Selected Publications
 ======
 - **Hanqing Zhang**，et al. Emotion-Aware LLM Adaptation for Empathetic Dialogue Generation[J]. IEEE Transactions on Audio, Speech and Language Processing, 2025. (**TASLP 2025**)
