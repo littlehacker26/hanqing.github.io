@@ -9,7 +9,7 @@ redirect_from:
 
 
  <!--I am currently a postdoctoral researcher at China Agricultural University (CAU), where I conduct interdisciplinary research on developing large language models (LLMs) for applications in animal science. -->
-I am currently active on the job market, seeking opportunities in natural language processing and large language models (LLMs). Previously, from  2024-08  to July 2025-08, I worked as an LLM development engineer at CNIGC.
+I am currently seeking opportunities in natural language processing and large language models (LLMs). Previously, from  2024-08  to July 2025-08, I worked as an LLM development engineer at CNIGC.
 
 I received my Ph.D degree in Computer Science in 2024 from the Department of Computer Science and Technology at Beijing Institute of Technology (BIT), under the supervision of Professor [Dawei Song](https://scholar.google.com.hk/citations?user=PCTA8yAAAAAJ&hl=zh-CN). During my doctoral studies, my research primarily focused on the controllability of large language models (LLMs) in text generation, aiming to ensure that the generated content aligns with human expectations and values. Prior to that, I earned my master's and bachelor's degrees from Beijing Institute of Technology (BIT) and Harbin Engineering University (HEU) in 2020 and 2017, respectively.
 
@@ -21,11 +21,9 @@ Research
 ======
  - Conduct fundamental research on the memory and reasoning capabilities of large language model (LLMs). We are exploring the relationship between memory and reasoning in LLMs, propose efficient methods to control these modes, and enhance the LLM's performance on memory- and reasoning-intensive tasks. Further, we are also committed to exploring more effective and effective reasoning-enhanced LLM training methods based on reinforcement learning.
 
- - Identify efficient and essential methods for developing domain-specific LLMs, with a focus on animal sciences. My primary interests lie in the following sub-areas: (1) Data synthesis techniques using general-purpose LLMs to train domain-specific Small Language Models (SLMs)   (2) Mechanisms of interaction between domain-specific SLMs and general LLMs, aiming to adapt the capabilities of general models to specialized domains at minimal cost. (3) Develop LLM agents tailored for domain-specific AI applications.
- 
- <!--For example, create an intelligent analysis agent to address challenges in livestock farming, offering more efficient management insights and optimization suggestions for the farm.
-。-->  
- <!-- - I am exploring research at the intersection of AI and the life sciences with a focus on applying large language model (LLM) technology to biological and medical domains. For example, my work includes developing LLM-based models for the early warning and diagnosis of animal diseases, leveraging physiological indicators and genetic sequences. (AI4Science)--> 
+ - Identify efficient and essential methods for developing domain-specific LLMs, with a focus on animal sciences. My primary interests lie in the following sub-areas: (1) Data synthesis techniques using general-purpose LLMs to train domain-specific Small Language Models (SLMs)   (2) Mechanisms of interaction between domain-specific SLMs and general LLMs, aiming to adapt the capabilities of general models to specialized domains at minimal cost. (3) Develop LLM agents tailored for domain-specific AI applications.For example, create an intelligent analysis agent to address challenges in livestock farming, offering more efficient management insights and optimization suggestions for the farm.
+
+ - I am exploring research at the intersection of AI and the life sciences with a focus on applying large language model (LLM) technology to biological and medical domains. For example, my work includes developing LLM-based models for the early warning and diagnosis of animal diseases, leveraging physiological indicators and genetic sequences. (AI4Science)
  
 Selected Publications
 ======
