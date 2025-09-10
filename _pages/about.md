@@ -20,8 +20,8 @@ I have been actively seeking collaborators for research and projects in the fiel
 Research 
 ======
 - I am interested in research on LLM AI agents and am devoted to enabling AI systems to handle complex tasks that involve uncertainty and multiple processes. 
-  -- (1)We are investigating the relationship between memory and reasoning in large language models (LLMs), proposing efficient methods to regulate these modes, and enhancing LLM performance on tasks that are intensive in memory and reasoning.
-  -- (2) We are also committed to developing more effective reinforcement learning (RL) based agent training methods.
+  - - (1)We are investigating the relationship between memory and reasoning in large language models (LLMs), proposing efficient methods to regulate these modes, and enhancing LLM performance on tasks that are intensive in memory and reasoning.
+  - - (2) We are also committed to developing more effective reinforcement learning (RL) based agent training methods.
   -- (3) Develop LLM agents tailored for domain-specific AI applications.For example, create an ranch  opereation agent to address challenges in livestock farming, offering more efficient management insights and optimization suggestions for the farm.
   -- (4) Identify efficient and essential methods for developing domain-specific LLMs, with a focus on animal sciences. My primary interests lie in the following sub-areas: 1） Data synthesis techniques using general-purpose LLMs to train domain-specific Small Language Models (SLMs)   2） Mechanisms of interaction between domain-specific SLMs and general LLMs, aiming to adapt the capabilities of general models to specialized domains at minimal cost.
 
