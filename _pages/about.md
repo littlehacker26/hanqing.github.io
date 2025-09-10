@@ -19,33 +19,16 @@ I have been actively seeking collaborators for research and projects in the fiel
 
 Research 
 ======
-I am interested in research on **LLM AI agents** and am devoted to enabling AI systems to handle complex tasks that involve uncertainty and multiple processes.  
+(1) I am interested in research on **LLM AI agents** and am devoted to enabling AI systems to handle complex tasks that involve uncertainty and multiple processes.  
 
-### Current Research Directions  
+1. **Memory and Reasoning in LLMs** : We are investigating the relationship between memory and reasoning in large language models (LLMs), proposing efficient methods to regulate these modes, and enhancing LLM performance on tasks that are intensive in memory and reasoning.  
 
-1. **Memory and Reasoning in LLMs**  
-   - Investigating the relationship between memory and reasoning in large language models (LLMs).  
-   - Proposing efficient methods to regulate these modes.  
-   - Enhancing LLM performance on tasks that are intensive in memory and reasoning.  
+2. **Reinforcement Learning for Agent Training** : Developing more effective **reinforcement learning (RL)**-based agent training methods.  
 
-2. **Reinforcement Learning for Agent Training**  
-   - Developing more effective **reinforcement learning (RL)**-based agent training methods.  
+3. **Domain-Specific LLM Agents**: Efficient Methods for Domain-Specific LLM Agent supplement to general LLM. 1) **Data synthesis techniques** using general-purpose LLMs to train domain-specific **Small Language Models (SLMs)**.  2) **Mechanisms of interaction** between domain-specific SLMs and general LLMs, aiming to adapt the capabilities of general models to specialized domains at minimal cost.  3)Designing LLM agents tailored for domain-specific AI applications. Forexample, A ranch operation agent** to address challenges in livestock farming, providing efficient management insights and optimization suggestions for farms.  
 
-3. **Domain-Specific LLM Agents**  
-   - Designing LLM agents tailored for domain-specific AI applications.  
-   - Example: A **ranch operation agent** to address challenges in livestock farming, providing efficient management insights and optimization suggestions for farms.  
 
-4. **Efficient Methods for Domain-Specific LLMs**  
-   - Identifying efficient and essential methods for developing domain-specific LLMs, with a focus on **animal sciences**.  
-   - Primary interests:  
-     1. **Data synthesis techniques** using general-purpose LLMs to train domain-specific **Small Language Models (SLMs)**.  
-     2. **Mechanisms of interaction** between domain-specific SLMs and general LLMs, aiming to adapt the capabilities of general models to specialized domains at minimal cost.  
-
----
-
-### AI for Life Sciences (AI4Science)  
-
-I am exploring research at the **intersection of AI and the life sciences**, focusing on applying large language model (LLM) technology to **biological and medical domains**.  
+(2) I am exploring research at the **intersection of AI and the life sciences**, focusing on applying large language model (LLM) technology to **biological and medical domains**.  
 - Example: Developing **LLM-based models** for the early warning and diagnosis of **animal diseases**, leveraging physiological indicators and genetic sequences.  
 
  
